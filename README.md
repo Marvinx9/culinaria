@@ -1,4 +1,4 @@
-## Cafeteria EuCofe 
+## Cafeteria EuCoffe 
 
 Esse projeto criado com React tende de apresentar um site de cafeteria. Onde apreciadores de café podem obter detalhes e pedir o seu café favorito.
 
