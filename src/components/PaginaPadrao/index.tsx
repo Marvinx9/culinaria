@@ -7,7 +7,7 @@ export default function PaginaPadrao() {
     <>
       <header className={styles.header}>
         <div className={styles.header__text}>
-            A casa do código e da massa
+            Não é apenas um café
         </div>
       </header>
       <div className={stylesTema.container}>

@@ -1,119 +1,119 @@
 [
   {
-    "title": "Macarrão mediterrâneo",
-    "description": "Macarrão spaghetti com frutos-do-mar e especíarias, especialidade da cozinha. Atenção: Contém camarão e outros frutos-do-mar!",
-    "photo": "/assets/pratos/macarrao_mediterraneo.png",
-    "size": 400,
-    "serving": 2,
-    "price": 73.0,
+    "title": "Espresso Euphoria",
+    "description": "Espresso, leite vaporizado e espuma.",
+    "photo": "/assets/bebidas/espresso_euphoria.png",
+    "size": 60,
+    "serving": 1,
+    "price": 22.0,
     "id": 1,
     "category": {
       "id": 1,
-      "label": "Massas"
+      "label": "Tradicional"
     }
   },
   {
-    "title": "Macarrão da casa",
-    "description": "Macarrão com frutos-do-mar e especíarias, especialidade da cozinha. Atenção: Contém camarão e outros frutos-do-mar!",
-    "photo": "/assets/pratos/macarrao_da_casa.png",
-    "size": 400,
-    "serving": 2,
-    "price": 54.0,
+    "title": "Aroma Haven Café",
+    "description": "Café aromatizado trazendo mais essência e sabor à sua bebida.",
+    "photo": "/assets/bebidas/aroma_haven.png",
+    "size": 60,
+    "serving": 1,
+    "price": 20.0,
     "id": 2,
     "category": {
-      "id": 1,
-      "label": "Massas"
+      "id": 2,
+      "label": "Superior"
     }
   },
   {
-    "title": "Macarrão com chilli",
-    "description": "Macarrão fetuccine com molho de chilli e especiárias.",
-    "photo": "/assets/pratos/macarrao_com_chilli.png",
-    "size": 350,
+    "title": "Café Sereno",
+    "description": "Café blend que combina notas de maracujá e frutas vermelhas com uma acidez cítrica.",
+    "photo": "/assets/bebidas/cafe_sereno.png",
+    "size": 40,
     "serving": 1,
-    "price": 58.0,
+    "price": 15.0,
     "id": 3,
     "category": {
-      "id": 1,
-      "label": "Massas"
+      "id": 2,
+      "label": "Superior"
     }
   },
   {
-    "title": "Salada da casa com salmão grelhado",
-    "description": "Salada da casa (alface, rúcula, cenoura) com salmão.",
-    "photo": "/assets/pratos/salada_da_casa.png",
-    "size": 450,
+    "title": "Café Mocha",
+    "description": "Café expresso, leite vaporizado, calda de chocolate e chantilly.",
+    "photo": "/assets/bebidas/mocha.png",
+    "size": 60,
     "serving": 1,
-    "price": 42.0,
+    "price": 22.0,
     "id": 4,
     "category": {
-      "id": 2,
-      "label": "Carnes"
+      "id": 3,
+      "label": "Gourmet"
     }
   },
   {
-    "title": "Bife com batatas",
-    "description": "Bife de boi (150g) na chapa, com batatas fritas. Acompanha arroz e molhos.",
-    "photo": "/assets/pratos/bife_com_batatas.png",
+    "title": "Café Americano",
+    "description": "Sabor equilibrado e suave com grãos de qualidade e preparado manualmente.",
+    "photo": "/assets/bebidas/americano.png",
     "size": 550,
     "serving": 2,
-    "price": 86.0,
+    "price": 15.0,
     "id": 5,
     "category": {
-      "id": 2,
-      "label": "Carnes"
+      "id": 1,
+      "label": "Tradicional"
     }
   },
   {
-    "title": "Picanha picada com legumes e massa",
-    "description": "400g de picanha picada, com legumes grelhados e massa escolhida pelo cliente.",
-    "photo": "/assets/pratos/picanha_picada.png",
+    "title": "Cappuccino",
+    "description": "Café expresso com leite vaporizado e espuma de leite.",
+    "photo": "/assets/bebidas/cappuccino.png",
     "size": 850,
     "serving": 3,
-    "price": 123.0,
+    "price": 22.0,
     "id": 6,
     "category": {
       "id": 3,
-      "label": "Combos"
+      "label": "Gourmet"
     }
   },
   {
-    "title": "Lasagna vegana (carne de soja)",
-    "description": "Lasagna 100% vegana feita com carne de soja e massa especial.",
-    "photo": "/assets/pratos/lasagna_vegana.png",
+    "title": "Chocolate Branco",
+    "description": "Clássico chocolate quente Branco, cremoso e delicioso, para envolver seu paladar. Nossa versão traz o melhor do cacau brasileiro, com café de alta qualidade.",
+    "photo": "/assets/bebidas/chocolate_branco.png",
     "size": 350,
     "serving": 1,
-    "price": 45.0,
+    "price": 24.0,
     "id": 7,
     "category": {
-      "id": 4,
-      "label": "Veganos"
+      "id": 3,
+      "label": "Gourmet"
     }
   },
   {
-    "title": "Salada especial",
-    "description": "Salada com abacate, manga, alface, grão de bico e muito mais.",
-    "photo": "/assets/pratos/salada_especial.png",
+    "title": "Sparkling Espresso with Mint",
+    "description": "Bebida refrescante e efervescente feita com espresso, xarope e menta.",
+    "photo": "/assets/bebidas/sparkling_espresso.png",
     "size": 350,
     "serving": 1,
     "price": 37.0,
     "id": 8,
     "category": {
       "id": 4,
-      "label": "Veganos"
+      "label": "Especial"
     }
   },
   {
-    "title": "Almôndegas",
-    "description": "Porção de almôndegas com sour cream, cebola e tempêros. Acompanha arroz ou massa.",
-    "photo": "/assets/pratos/almondegas.png",
+    "title": "Vanilla Latte",
+    "description": "Mistura de cafés da América Latina e da Ásia/Pacífico, este espresso tem uma doçura rica e caramelada e está no coração de nosso café com leite artesanal.",
+    "photo": "/assets/bebidas/vanilla_latte.png",
     "size": 740,
     "serving": 3,
     "price": 120.0,
     "id": 9,
     "category": {
-      "id": 3,
-      "label": "Combos"
+      "id": 4,
+      "label": "Especial"
     }
   }
 ]

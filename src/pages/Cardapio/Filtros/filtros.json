@@ -1,18 +1,18 @@
 [
   {
-    "label": "Massas",
+    "label": "Tradicional",
     "id": 1
   },
   {
-    "label": "Carnes",
+    "label": "Superior",
     "id": 2
   },
   {
-    "label": "Combos",
+    "label": "Gourmet",
     "id": 3
   },
   {
-    "label": "Veganos",
+    "label": "Especial",
     "id": 4
   }
 ]
